@@ -3,9 +3,11 @@
 ## 💻 About Me
 > "The only easy day was yesterday"
 
-I'm a student passionate about **software engineering**, **web development**, **SQA**, and **cybersecurity**.  
+I'm a student passionate about **software engineering**, **web development**, **SQA**, and **cybersecurity**.
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFoYnR2djdrcmI1aHR3NHQ1Y2t1Mml2amdsMjFhaWU5MGNkdzBpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif">
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFoYnR2djdrcmI1aHR3NHQ1Y2t1Mml2amdsMjFhaWU5MGNkdzBpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="300"/>
+</p>
 
 ---
 
@@ -32,4 +34,4 @@ I'm a student passionate about **software engineering**, **web development**, **
 
 ---
 
-Let's connect and build something **awesome**! 🚀
+Let's connect and build something awesome!

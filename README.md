@@ -4,6 +4,8 @@
 - "The only easy day was yesterday"
 - Student passionate about software engineering, web development, SQA, and cybersecurity.
 
+  <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFoYnR2djdrcmI1aHR3NHQ1Y2t1Mml2amdsMjFhaWU5MGNkdzBpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif">
+
 ## 🚀 Top Skills
 - JavaScript, CSS, Tailwind CSS, HTML5
 - PHP, Java, C++

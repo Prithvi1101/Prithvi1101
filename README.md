@@ -7,7 +7,7 @@
 ## 🚀 Top Skills
 - JavaScript, CSS, Tailwind CSS, HTML5
 - PHP, Java, C++
-- MongoDB, MySQL
+- MongoDB, MySQL, RESTFUL APIs
 - React, DevOps
 
 Currently learning: **Machine Learning** and **Python**

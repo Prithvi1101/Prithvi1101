@@ -27,10 +27,11 @@ I'm a student passionate about **software engineering**, **web development**, **
 
 ---
 
-## ⚡ Fun Facts & Hobbies
+## ⚡ Hobbies & Other Interests
 - Football  
 - Guitar & Music  
-- Travelling & Hiking  
+- Travelling & Hiking
+- Tech enthusiast, video games etc
 
 ---
 

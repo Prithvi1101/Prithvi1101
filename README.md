@@ -12,8 +12,8 @@ I'm a student passionate about **software engineering**, **web development**, **
 ---
 
 ## 🚀 Top Skills
-- **Frontend:** JavaScript, HTML5, CSS, Tailwind CSS  
-- **Backend:** PHP, Java, C++  
+- **Frontend:**  HTML5, CSS, Tailwind CSS  
+- **Backend:** JavaScript, PHP, Java, C++  
 - **Databases & APIs:** MongoDB, MySQL, RESTful APIs  
 - **Frameworks & Tools:** React, DevOps  
 
